@@ -1,11 +1,2 @@
-### Hi there 👋
-
-
-
-
-- 🔭 I’m currently working on Sintese Jr as Trainee
-- 🌱 I’m currently learning Reac, node and java
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: gabrielsn039@gmail.com
-
-
+Atualmente Curso Sistemas de Informação na Universidade de São Paulo, sou graduado como técnico em informática pelo Instituto Federal de Minas Gerais.
+Contato: gabrielsn039@gmail.com
